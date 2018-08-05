@@ -1,4 +1,7 @@
 # es6-gulp-boilerplate
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/es6-gulp-boilerplate.svg)](https://www.guardrails.io)
+
 Boilerplate for frontend development. jade, sass, ES6 and gulp + webpack.
 
 # Require
